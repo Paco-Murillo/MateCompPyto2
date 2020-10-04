@@ -1,3 +1,9 @@
+# A01376544 Mariana Caballero
+# A01377744 Alejandro Torices
+# A01745530 Pablo García
+# A01374561 Paco Murillo
+
+
 from itertools import combinations
 
 

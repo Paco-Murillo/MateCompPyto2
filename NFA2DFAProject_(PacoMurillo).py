@@ -102,7 +102,7 @@ def createTxt(DFAStates, DFATransitions, alphabetArray):
 
 
 def main():
-    transitionArray, alphabetArray, statesArray = leerArchivo("prueba.txt")
+    transitionArray, alphabetArray, statesArray = leerArchivo(input("Nombre del archivo: "))
     print(alphabetArray)
     print(statesArray)
     print(transitionArray)
